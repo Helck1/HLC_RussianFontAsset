@@ -1,3 +1,3 @@
-# [HLC_ChineseFontAsset![](https://img.shields.io/github/release/LocalizeLimbusCompany/LLC_ChineseFontAsset.svg?label=最新版)](../../releases)
+# [HLC_RussianFontsAsset![](https://img.shields.io/github/release/LocalizeLimbusCompany/LLC_ChineseFontAsset.svg?label=最新版)](../../releases)
 
 Русские шрифты
